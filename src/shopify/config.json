@@ -1,0 +1,7 @@
+{
+   "interval": 48,
+   "shops": [],
+   "webhooks": {
+      "default": "put your default webhook inside here"
+   }
+}
